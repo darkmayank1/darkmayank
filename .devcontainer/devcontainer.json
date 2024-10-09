@@ -6,7 +6,7 @@
             "version": "latest"
         }
     },
-    "postStartCommand": "python3 /workspaces/darkmayank/sahil.py",
+    "postStartCommand": "python3 /workspaces/dark/sahil.py",
     "customizations": {
         "vscode": {
             "settings": {
